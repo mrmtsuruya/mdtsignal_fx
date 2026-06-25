@@ -4,13 +4,13 @@
 Integrated Trading System (ITS) — Overview
 
 ## Purpose
-This document provides a high-level overview of the Integrated Trading System architecture for mdtsignal_fx. It describes how all platform components interact to form a cohesive, end-to-end trading pipeline from signal generation to order execution.
+This document provides a high-level overview of the Integrated Trading System architecture for mdtsignal_fx. It describes how all platform components interact to form a cohesive, end-to-end trading pipeline from signal generation to order execution. For the full constitutional specification, see [ITS v1.0](ITS-v1.0.md).
 
 ## Status
-Draft
+Active
 
 ## Version
-0.1.0
+1.0.0
 
 ## Last Updated
 2026-06-25

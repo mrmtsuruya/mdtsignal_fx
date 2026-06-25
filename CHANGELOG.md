@@ -37,6 +37,14 @@ mrmtsuruya
 
 ---
 
+## [0.2.0] — 2026-06-25
+
+### Added
+- Institutional Trading Specification ITS v1.0 (`docs/ITS/ITS-v1.0.md`) — full constitutional, architectural, and standards document covering: project vision, system architecture, platform constitution (8 rules), technical standards, mathematical philosophy, evidence-first philosophy, versioning rules, coding standards, performance requirements, non-repainting requirements, risk hierarchy, AI hierarchy, module responsibilities, and amendment process
+- Updated `docs/ITS/overview.md` to reference ITS v1.0
+
+---
+
 ## [0.1.0] — 2026-06-25
 
 ### Added
@@ -46,5 +54,6 @@ mrmtsuruya
 - CI/CD scaffolding under `.github/`
 - Placeholder files for all planned components
 
-[Unreleased]: https://github.com/mrmtsuruya/mdtsignal_fx/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/mrmtsuruya/mdtsignal_fx/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/mrmtsuruya/mdtsignal_fx/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/mrmtsuruya/mdtsignal_fx/releases/tag/v0.1.0
