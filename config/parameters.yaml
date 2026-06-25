@@ -1,0 +1,7 @@
+parameters:
+  timeframe:
+    execution: M15
+    context: H1
+  defaults:
+    lookback_bars: 200
+    max_open_positions: 3

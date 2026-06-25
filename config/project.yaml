@@ -1,0 +1,7 @@
+project:
+  name: mdtsignal_fx
+  version: 1.0.0
+  status: active
+  markets:
+    - XAUUSD
+    - BTCUSD

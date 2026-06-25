@@ -1,0 +1,5 @@
+risk:
+  enabled: true
+  max_daily_drawdown_pct: 3.0
+  max_risk_per_trade_pct: 1.0
+  max_consecutive_losses: 3

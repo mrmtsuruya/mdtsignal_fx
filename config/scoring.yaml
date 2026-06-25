@@ -1,0 +1,9 @@
+scoring:
+  enabled: true
+  model: default
+  weights:
+    market_structure: 0.25
+    liquidity: 0.25
+    point_of_interest: 0.20
+    execution: 0.15
+    risk: 0.15

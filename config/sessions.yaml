@@ -1,0 +1,9 @@
+sessions:
+  timezone: UTC
+  trading:
+    - name: london
+      start: "07:00"
+      end: "16:00"
+    - name: new_york
+      start: "13:00"
+      end: "22:00"
